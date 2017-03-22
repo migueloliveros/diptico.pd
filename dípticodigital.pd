@@ -1601,28 +1601,28 @@
 #X text -694 724 3D bezier curve \, using a matrix of control points
 ;
 #X obj 54 290 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2655 1;
+-1 -1 5782 1;
 #X floatatom 82 360 5 0 0 0 - - -;
 #X obj -52 298 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 236 1;
+-1 -1 2124 1;
 #X floatatom -26 368 5 0 0 0 - - -;
 #X obj -154 288 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 3422 1;
+-1 -45076 3599 1;
 #X floatatom -126 358 5 0 0 0 - - -;
 #X obj -263 288 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 4897 1;
+-1 -1 5015 1;
 #X floatatom -235 358 5 0 0 0 - - -;
 #X floatatom -506 633 5 0 0 0 - - -;
 #X floatatom -473 633 5 0 0 0 - - -;
 #X floatatom -439 633 5 0 0 0 - - -;
 #X obj -360 290 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 885 1;
+-1 -1 3599 1;
 #X floatatom -335 360 5 0 0 0 - - -;
 #X obj -472 286 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 5369 1;
+-1 -45076 5664 1;
 #X floatatom -444 355 5 0 0 0 - - -;
 #X obj -581 285 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 1298 1;
+-1 -1 2065 1;
 #X floatatom -553 355 5 0 0 0 - - -;
 #X floatatom -496 457 5 0 0 0 - - -;
 #X floatatom -544 457 5 0 0 0 - - -;
@@ -3171,28 +3171,28 @@
 #X text -1295 787 3D bezier curve \, using a matrix of control points
 ;
 #X obj -735 324 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 1003 1;
+-1 -1 1711 1;
 #X floatatom -707 394 5 0 0 0 - - -;
 #X obj -841 332 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 2832 1;
+-1 -1 5664 1;
 #X floatatom -815 402 5 0 0 0 - - -;
 #X obj -943 322 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 2891 1;
+-1 -45076 4956 1;
 #X floatatom -915 392 5 0 0 0 - - -;
 #X obj -1052 322 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2832 1;
+-1 -1 1003 1;
 #X floatatom -1024 392 5 0 0 0 - - -;
 #X floatatom -1107 696 5 0 0 0 - - -;
 #X floatatom -1074 696 5 0 0 0 - - -;
 #X floatatom -1040 696 5 0 0 0 - - -;
 #X obj -1149 324 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 0 1;
+-1 -1 1357 1;
 #X floatatom -1124 394 5 0 0 0 - - -;
 #X obj -1289 324 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 413 1;
+-1 -45076 3481 1;
 #X floatatom -1261 393 5 0 0 0 - - -;
 #X obj -1398 323 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2124 1;
+-1 -1 236 1;
 #X floatatom -1370 393 5 0 0 0 - - -;
 #X floatatom -1313 495 5 0 0 0 - - -;
 #X floatatom -1361 495 5 0 0 0 - - -;
@@ -4740,28 +4740,28 @@
 #X text -2091 800 3D bezier curve \, using a matrix of control points
 ;
 #X obj -1531 337 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 354 1;
+-1 -1 1062 1;
 #X floatatom -1503 407 5 0 0 0 - - -;
 #X obj -1637 345 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 4602 1;
+-1 -1 0 1;
 #X floatatom -1611 415 5 0 0 0 - - -;
 #X obj -1739 335 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 118 1;
+-1 -45076 472 1;
 #X floatatom -1711 405 5 0 0 0 - - -;
 #X obj -1848 335 knob 60 60 0 100 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 3186 1;
+-1 -1 1121 1;
 #X floatatom -1820 405 5 0 0 0 - - -;
 #X floatatom -1903 709 5 0 0 0 - - -;
 #X floatatom -1870 709 5 0 0 0 - - -;
 #X floatatom -1836 709 5 0 0 0 - - -;
 #X obj -1945 337 knob 60 60 0 1000 0 0 empty empty empty 0 -8 0 8 -45076
--1 -1 3387 1;
+-1 -1 673 1;
 #X floatatom -1920 407 5 0 0 0 - - -;
 #X obj -2057 333 knob 60 60 0 1000 0 0 empty empty empty 0 -8 0 8 -258113
--1 -45076 1929 1;
+-1 -45076 2537 1;
 #X floatatom -2029 402 5 0 0 0 - - -;
 #X obj -2166 332 knob 60 60 0 1000 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 5599 1;
+-1 -1 2006 1;
 #X floatatom -2138 402 5 0 0 0 - - -;
 #X floatatom -2081 504 5 0 0 0 - - -;
 #X floatatom -2129 504 5 0 0 0 - - -;
@@ -4867,13 +4867,13 @@
 #X floatatom 409 662 5 0 0 0 - - -;
 #X obj 411 712 gemhead 1;
 #X obj 1423 156 camera;
-#X obj 1406 81 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 1
+#X obj 1406 81 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 0
 1;
-#X obj 1429 62 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 0
+#X obj 1429 62 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 1
 1;
-#X obj 1478 107 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 0
+#X obj 1478 107 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 1
 1;
-#X obj 1504 85 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 1
+#X obj 1504 85 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 0
 1;
 #X msg 1478 123 left \$1;
 #X msg 1504 101 right \$1;
@@ -4907,7 +4907,7 @@
 #X floatatom 982 893 5 0 0 0 - - -;
 #X floatatom 1062 803 5 0 0 0 - - -;
 #X obj 1079 605 vsl 15 128 -16 16 0 0 empty empty empty 0 -9 0 10 -159808
--1 -1 8956 1;
+-1 -1 8984 1;
 #X floatatom 572 549 5 0 0 0 - - -;
 #X floatatom 985 653 0 0 0 0 - - -;
 #X obj 984 619 counter;
@@ -4949,11 +4949,11 @@
 #X floatatom 1293 900 5 0 0 0 - - -;
 #X floatatom 1448 733 5 0 0 0 - - -;
 #X obj 1391 552 vsl 15 128 -16 16 0 0 empty empty empty 0 -9 0 10 -159808
--1 -1 8955 1;
+-1 -1 8984 1;
 #X floatatom 1297 600 0 0 0 0 - - -;
 #X obj 1296 566 counter;
 #X obj 1296 516 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
-0 1;
+1 1;
 #X floatatom 1232 643 5 0 0 0 - - -;
 #X obj 1296 540 metro 17;
 #X text 1292 872 -5;
@@ -4969,10 +4969,10 @@
 -1 -1 0 1;
 #X floatatom 694 152 5 0 0 0 - - -;
 #X obj 588 107 knob 32 32 0 127 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 1410 1;
+-1 -1 1426 1;
 #X floatatom 590 151 5 0 0 0 - - -;
 #X obj 1656 557 knob 32 32 1 26 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 806 1;
+-1 -1 145 1;
 #X floatatom 1717 47 3 0 0 0 - - -;
 #X obj 1738 71 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
@@ -5001,7 +5001,7 @@
 #X obj 1088 84 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
 #X obj 1067 111 knob 32 32 -16 16 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2186 1;
+-1 -1 2193 1;
 #X floatatom 1067 153 5 0 0 0 - - -;
 #X msg 337 456 draw point;
 #X msg 853 861 draw fill;
@@ -5010,14 +5010,14 @@
 #X obj 826 821 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
 #X obj 772 890 knob 32 32 -16 16 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2142 1;
+-1 -1 2148 1;
 #X floatatom 774 955 5 0 0 0 - - -;
 #X obj 773 931 + 0.1;
 #X obj 772 862 / 8.6;
 #X obj 1149 841 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
 #X obj 1128 868 knob 32 32 -16 16 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2142 1;
+-1 -1 2148 1;
 #X floatatom 1128 952 5 0 0 0 - - -;
 #X obj 1127 928 + 0.1;
 #X obj 1128 817 / 8.6;
@@ -5038,7 +5038,7 @@
 #X msg 877 820 draw fill;
 #X floatatom 1430 310 5 0 0 0 - - -;
 #X obj 1429 423 knob 60 60 0 127 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 2091 1;
+-1 -1 604 1;
 #X floatatom 1457 493 5 0 0 0 - - -;
 #X obj 1429 373 random 127;
 #X obj 1430 331 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
@@ -5046,7 +5046,7 @@
 #X text 898 346 usas la voz...;
 #X obj 1429 346 metro 10000;
 #X obj 1616 873 knob 19 19 0 19 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 95 1;
+-1 -1 1326 1;
 #X obj 1466 871 pix_texture;
 #X floatatom 1616 967 5 0 0 0 - - -;
 #X obj 1616 796 metro 1300;
@@ -5061,6 +5061,8 @@
 #X obj 1577 988 cube -5;
 #X obj 1616 823 random 19;
 #X msg 1477 796 draw fill;
+#X msg 859 639 device 0;
+#X msg 859 608 device 1;
 #X connect 1 0 4 0;
 #X connect 1 0 303 0;
 #X connect 2 0 87 0;
@@ -5551,6 +5553,8 @@
 #X connect 478 0 479 0;
 #X connect 480 0 469 0;
 #X connect 481 0 479 0;
+#X connect 482 0 453 0;
+#X connect 483 0 453 0;
 #X restore -17 99 pd beizer;
 #X text 101 233 % mean-cpu-load;
 #X text 101 249 % peak-cpu-load;
